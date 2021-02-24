@@ -1,9 +1,8 @@
 
 # php-enums
 
-### Implements the abstract base for all enum types
-- http://stackoverflow.com/a/2324746/1003020
-- http://stackoverflow.com/a/254543/1003020
+### Credit
+- https://stackoverflow.com/a/40658901
 
 ### Example of a typical enum:
 
