@@ -1,8 +1,8 @@
 
 # php-enums
 
-### Credit
-- https://stackoverflow.com/a/40658901
+### To Be Replaced
+This helper class will be obsolete from PHP 8.1, see https://wiki.php.net/rfc/enumerations
 
 ### Example of a typical enum:
 
@@ -39,3 +39,6 @@ DayOfWeek::toString(5)
 (string) "Tuesday"
 (string) "Friday"
 ```
+
+### Credit
+- https://stackoverflow.com/a/40658901
