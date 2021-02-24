@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Implements the abstract base for all enum types
  * @see http://stackoverflow.com/a/2324746/1003020
